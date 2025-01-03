@@ -1,13 +1,12 @@
-# Design as a gentle transformation
-# for inclusion and connection
+![Design as a gentle transformation for inclusion and connection](./introduction.png)
 　
----
+　
 　
 Hi! Welcome to 🍵 **Maccha Koubou / 抹茶工房** – the workshop of gentle ideas and warm designs!
 
 Here, I explore the integration of digital and tangible products, spaces, services, and systems to craft inclusive, seamless, and supportive solutions. I aim to drive meaningful change through design by embracing technology and interdisciplinary collaboration.
 　
----
+　
 　
 #### My Current Work
 
@@ -15,7 +14,7 @@ Here, I explore the integration of digital and tangible products, spaces, servic
 
 - 📊 Developing a **gender-affirming hormone therapy (GAHT/HRT) tracking and comparing app** using Kotlin & Jetpack Compose.
 　
----
+　
 　
 #### My Design Focus
 
@@ -27,7 +26,7 @@ Here, I explore the integration of digital and tangible products, spaces, servic
 
 - 🏙️ **Publicness & Spatial Justice**
 　
----
+　
 　
 #### My Skills
 

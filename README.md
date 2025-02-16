@@ -16,18 +16,6 @@ Here, I explore the integration of digital and tangible products, spaces, servic
 
 　
 
-#### My Design Focus
-
-- 🏳️‍🌈 **Queer & Feminism**
-
-- ⚖️ **Diversity & Intersectionality**
-
-- ♿️ **Anti-Ableism**
-
-- 🏙️ **Publicness & Spatial Justice**
-
-　
-
 #### My Skills
 
 - 🎨 **Graphic Design**: Illustrator, Figma, Photoshop, InDesign, After Effects, Data visualization, Hand sketch

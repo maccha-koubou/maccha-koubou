@@ -36,4 +36,5 @@ Here, I explore the integration of digital and tangible products, spaces, servic
 
 - 💻 **Programming**: Kotlin, C#, Processing, Arduino, Git
 
-- 🌍 **Languages**: Mandarin (Native), English (B2), Japanese (B1)
+- 🌍 **Languages**: Mandarin (Native), English (B2), Japanese (B1), Dutch (A2)
+

@@ -4,27 +4,15 @@
 
 Hi! I'm Evelyn. Welcome to 🍵 **Maccha Koubou / 抹茶工房** – the workshop of gentle ideas and warm designs!
 
-Here, I explore the integration of digital and tangible products, spaces, services, and systems to craft inclusive, seamless, and supportive solutions. I aim to drive meaningful change through design by embracing technology and interdisciplinary collaboration.
-
-　
-
-#### My Current Work
-
-- 🌟 Combining my background in spatial design with **service design, interaction design & interactive media development**.
-
-- 📊 Developing a **gender-affirming hormone therapy (GAHT/HRT) tracking and comparing app** using Kotlin & Jetpack Compose.
+From digital services to physical spaces, I believe design can connect technology, society, and people. Through thoughtful, empathetic practice, I aim to respond to complex and systemic challenges with inclusion and connection.
 
 　
 
 #### My Design Focus
 
-- 🏳️‍🌈 **Queer & Feminism**
+- 🏳️‍🌈 **Queer & Feminism** - I focus on how vulnerability is unequally distributed through intersectional power structures, and work towards fostering practices of mutual care and connection.
 
-- ⚖️ **Diversity & Intersectionality**
-
-- ♿️ **Anti-Ableism**
-
-- 🏙️ **Publicness & Spatial Justice**
+- ♿️ **Anti-Ableism** - I see disability as shaped by social and systemic barriers, and focus on accessible and enabling design for people with diverse access needs.
 
 　
 
@@ -34,7 +22,8 @@ Here, I explore the integration of digital and tangible products, spaces, servic
 
 - ✨ **3D Design**: V-Ray, Rhino, SketchUp
 
-- 💻 **Programming**: Kotlin, C#, Processing, Arduino, Git
+- 💻 **Programming**: Kotlin, React, C#, Processing, Arduino, Git
 
 - 🌍 **Languages**: Mandarin (Native), English (B2), Japanese (B1), Dutch (A2)
+
 

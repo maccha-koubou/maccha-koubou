@@ -24,6 +24,6 @@ From digital services to physical spaces, I believe design can connect technolog
 
 - 💻 **Programming**: Kotlin, React, C#, Processing, Arduino, Git
 
-- 🌍 **Languages**: Mandarin (Native), English (B2), Japanese (B1), Dutch (A2)
+- 🌍 **Languages**: Mandarin (Native), English (B2), Dutch (B1), Japanese (B1)
 
 
